@@ -1,0 +1,8 @@
+c:\users\akhil\documents\visual studio 2015\Projects\Log4netDemo\Log4netDemo\bin\Debug\Log4netDemo.exe.config
+c:\users\akhil\documents\visual studio 2015\Projects\Log4netDemo\Log4netDemo\bin\Debug\Log4netDemo.exe
+c:\users\akhil\documents\visual studio 2015\Projects\Log4netDemo\Log4netDemo\bin\Debug\Log4netDemo.pdb
+c:\users\akhil\documents\visual studio 2015\Projects\Log4netDemo\Log4netDemo\bin\Debug\log4net.dll
+c:\users\akhil\documents\visual studio 2015\Projects\Log4netDemo\Log4netDemo\bin\Debug\log4net.xml
+c:\users\akhil\documents\visual studio 2015\Projects\Log4netDemo\Log4netDemo\obj\Debug\Log4netDemo.csprojResolveAssemblyReference.cache
+c:\users\akhil\documents\visual studio 2015\Projects\Log4netDemo\Log4netDemo\obj\Debug\Log4netDemo.exe
+c:\users\akhil\documents\visual studio 2015\Projects\Log4netDemo\Log4netDemo\obj\Debug\Log4netDemo.pdb

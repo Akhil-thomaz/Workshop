@@ -1,0 +1,6 @@
+2019-07-21 16:13:22,635 [1] ERROR Log4netDemo.Demo1 [(null)] - Attempted to divide by zero.
+System.DivideByZeroException: Attempted to divide by zero.
+   at Log4netDemo.Demo2.add() in C:\Users\AKHIL\Documents\Visual Studio 2015\Projects\Log4netDemo\Log4netDemo\Demo2.cs:line 16
+2019-07-21 16:14:10,555 [1] ERROR Log4netDemo.Demo1 [(null)] - Overflow or underflow in the arithmetic operation.
+System.ArithmeticException: Overflow or underflow in the arithmetic operation.
+   at Log4netDemo.Program.Main(String[] args) in C:\Users\AKHIL\Documents\Visual Studio 2015\Projects\Log4netDemo\Log4netDemo\Program.cs:line 19
